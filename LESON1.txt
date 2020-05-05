@@ -4,3 +4,9 @@ LS=1
 IF LS=1 THEN WRITE " FIRST LESON "
         ELSE LS=LS+1
 END.
+
+
+
+
+FIRST commit DONE!!
+
