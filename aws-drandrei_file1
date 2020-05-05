@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "Hello, world!"
+echo "Hello, world!
+
+
+#use "chmod +x aws-drandrei_file1" and "./ aws-drandrei_file1" to open the file

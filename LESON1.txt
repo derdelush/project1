@@ -3,6 +3,16 @@ LESON= LS
 LS=1
 IF LS=1 THEN WRITE " FIRST LESON "
         ELSE LS=LS+1
+<<<<<<< HEAD
 
 write();
 END.
+=======
+END.
+
+
+
+
+FIRST commit DONE!!
+//IT WORKS :D
+>>>>>>> b392c3536e41daa45e7a1919f90699cba4cc21e3
