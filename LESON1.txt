@@ -7,10 +7,8 @@ IF LS=1 THEN WRITE " FIRST LESON "
 
 write();
 END.
-=======
-END.
 
-
+===================================
 
 
 FIRST commit DONE!!
