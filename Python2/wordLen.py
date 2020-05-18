@@ -1,0 +1,10 @@
+word = "hello"
+print(len(word))
+print(word.count(' '))
+print(word[0:4])
+word = word.replace('hello' , 'Goodbye', 1)
+print(word)
+print(word.upper())
+print(word.lower())
+word = ''.join(reversed(word))
+print(word)
