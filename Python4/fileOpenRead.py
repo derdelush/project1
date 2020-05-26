@@ -1,0 +1,6 @@
+file = open("d:\ASD.txt", "r")
+print("First line: " + file.readline())
+print("Second line: " + file.readline())
+print("Rest of file: \n" + file.read())
+print("Blank line: " + file.readline())
+file.close()
